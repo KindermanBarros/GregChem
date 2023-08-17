@@ -1,2 +1,2 @@
-# Kotlin Modding Skeleton
-Provides an example mod written in Kotlin using Kotlin for Forge.
+# GregChem
+Provides a way to convert ChemLib elements to Gregtech CEU dusts.
